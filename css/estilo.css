@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Itim|Titillium+Web&display=swap');
+
+body{
+    width: 75%;
+    margin: auto;
+    background-color: azure;
+    font-size: 115%;
+}
+
+#resumo{
+    text-align:  justify;
+}
+
+#cabecalho{
+    text-align: center;
+    border-bottom: 2px solid black;
+    font-family: 'Itim', cursive;
+}
+
+#cabecalho span{
+    font-weight: bold;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1{
+    color: #606060;
+}
+
+.font-web{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.font-cursiva{
+    font-family: 'Itim', cursive;
+}
+
+#nome{
+    font-weight: bold;
+    
+}
+
+#formacao {
+    padding: 0;
+}
+
+.curso{
+    font-weight: bold;
+    font-family: 'Itim', cursive;
+}
