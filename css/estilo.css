@@ -26,17 +26,16 @@ h1{
     color: #606060;
 }
 
-.font-web{
+h2{
     font-family: 'Titillium Web', sans-serif;
 }
 
-.font-cursiva{
+li, p, a{
     font-family: 'Itim', cursive;
 }
 
 #nome{
     font-weight: bold;
-    
 }
 
 #formacao {
@@ -44,6 +43,6 @@ h1{
 }
 
 .curso{
+    color: blue;
     font-weight: bold;
-    font-family: 'Itim', cursive;
 }
